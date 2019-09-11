@@ -1,7 +1,7 @@
-# demos
-A collection of scripts demoing various concepts predominantly related to statistical programming.
+# Demos
+A collection of scripts demoing various concepts predominantly related to scientific computing.
 
-## Demos:
+## Demo Notebooks:
 - Distributions and Shot Noise;
 - Estimate Pi; and
 - Numpy Demos.
